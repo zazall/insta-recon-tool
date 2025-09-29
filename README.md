@@ -9,7 +9,7 @@ Useful for **cybersecurity analysts**, **penetration testers**, and **OSINT rese
 ## ✨ Features
 - Fetch full **public profile information**
 - Download **HD profile picture**
-- Extract **emails / hashtags / mentions** from bio
+- Extract hashtags / mentions** from bio
 - Save output as **JSON** or **HTML report**
 - Support for **single user** or **bulk mode** via .txt file
 
